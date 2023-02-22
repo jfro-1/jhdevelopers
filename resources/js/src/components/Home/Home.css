@@ -1,40 +1,39 @@
 /** @format */
 
 .home {
-  background: url("/public/assets/bag.png");
-  position: absolute;
-  top: 0px;
-  width: 100%;
-  min-height: 100vh;
-  background-repeat: no-repeat;
+    background: url("https://i.postimg.cc/hjgSR3Db/bag.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    min-height: 100vh;
 }
+
 .homeTitle {
-  color: #fff;
-  margin-top: 15%;
-  font-size: 60px;
-  font-weight: 700;
+    color: #fff;
+    margin-top: 15%;
+    font-size: 60px;
+    font-weight: 700;
 }
 
 .homeTitleP {
-  color: #fff;
-}
-
-.homeButton {
+    color: #fff;
 }
 
 .homeButton div:nth-child(1) {
-  color: #000;
-  background-color: #fff;
-  display: inline;
-  margin-right: 5px;
-  padding: 10px;
-  border-radius: 5px;
+    color: #000;
+    background-color: #fff;
+    display: inline;
+    margin-right: 5px;
+    padding: 10px;
+    border-radius: 5px;
 }
 .homeButton div:nth-child(2) {
-  color: #000;
-  background-color: #fff;
-  display: inline;
-  margin-left: 5px;
-  padding: 10px;
-  border-radius: 5px;
+    color: #000;
+    background-color: #fff;
+    display: inline;
+    margin-left: 5px;
+    padding: 10px;
+    border-radius: 5px;
 }
