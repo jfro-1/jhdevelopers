@@ -1,13 +1,13 @@
 /** @format */
 
 .home {
-    background: url("https://i.postimg.cc/hjgSR3Db/bag.png");
-    background-repeat: no-repeat;
+    background: url("/public/assets/bag.png");
     position: absolute;
     top: 0px;
-    left: 0;
-    right: 0;
+    width: 100%;
     min-height: 100vh;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
 }
 
 .homeTitle {

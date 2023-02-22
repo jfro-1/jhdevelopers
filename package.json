@@ -13,13 +13,17 @@
         "web-vitals": "^3.1.1"
     },
     "dependencies": {
+        "@emailjs/browser": "^3.10.0",
         "@fortawesome/fontawesome-svg-core": "^6.3.0",
         "@fortawesome/free-solid-svg-icons": "^6.3.0",
         "@fortawesome/react-fontawesome": "^0.2.0",
+        "@react-icons/all-files": "^4.1.0",
         "@vitejs/plugin-react": "^3.1.0",
+        "bootstrap-icons": "^1.10.3",
         "prop-types": "^15.8.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "react-icons": "^4.7.1",
         "react-router-dom": "^6.8.1"
     }
 }

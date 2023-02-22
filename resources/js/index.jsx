@@ -1,10 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './src/reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import reportWebVitals from "./src/reportWebVitals";
 import { createRoot } from "react-dom/client";
-// import 'bootstrap/dist/css/bootstrap.min.css';
 
 const rootElement = document.getElementById("root");
 //id is given as app
